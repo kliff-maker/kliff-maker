@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world its a sunn day
+=======
+If they can do it,i can do it better,know that
+>>>>>>> first_branch
